@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
-<h3 align="center">:computer:Web developer</h3>
+<h3 align="center">:computer:Web Developer</h3>
 
 
 - 🔭 I’m currently working on **Full Stack Development**
@@ -48,7 +48,8 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhoshsiva97&show_icons=true&locale=en&layout=compact" alt="santhoshsiva97" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhoshsiva97&show_icons=true&locale=en" alt="santhoshsiva97" /></p>
+
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhoshsiva97&show_icons=true&locale=en" alt="santhoshsiva97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshsiva97&" alt="santhoshsiva97" /></p>
 </div>
