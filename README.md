@@ -1,14 +1,48 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
-<h3 align="center">💻 Software Engineer | Full Stack Developer</h3>
+<h3 align="center">💻 Software Engineer II</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔧 Experienced **Software Engineer** with 6+ years in full-stack development and software lifecycle management.  
-- 🌐 Passionate about **Web3**, decentralized applications, and blockchain integrations.  
-- 👨‍🎓 Currently building and learning at [LearnWeb3.io](https://learnweb3.io/profiles/Santhosh)  
-- 🛠️ Focused on performance-driven, scalable web applications with modern JavaScript stacks.
+- 👨‍💻 I’m a **Software Engineer with 6+ years of experience** in software development and complete product lifecycle management.  
+- 🧑‍🔧 I’ve handled multiple roles across projects as a **Full Stack**, **Frontend**, and **Backend Engineer**.  
+- 🌟 I enjoy working in **challenging environments** alongside **diverse and talented teams**, focused on building and delivering **disruptive products and technologies**.  
+- 🛠️ Passionate about scalable architecture, automation, and Web3 innovation.
+
+---
+
+### 💼 Experience
+
+#### 🧠 Software Engineer II  
+**Esko R&D, Bangalore** — *May 2023 – Present*
+
+**Project: Switch Apps – Workflow Automation Apps**
+- 🚀 Designed, built, and maintained automation apps using **Enfocus Switch**, reducing manual intervention by **60%**.
+- 🔌 Developed 50+ custom Switch Apps with **Node.js**, **TypeScript**, and **Enfocus SDK** integrating Webhooks, FTP, MIS systems, and REST APIs.
+- ⚙️ Engineered intelligent prepress workflows: file validation, renaming, compress/decompress, approvals, email alerts, and 3rd-party integration.
+- 🧠 Reduced job onboarding time from **45 minutes to under 10 minutes** via automated Switch flows.
+- 🛠️ **Tech Stack**: Node.js, TypeScript, JavaScript, Perforce, GitHub, Jenkins
+
+---
+
+#### 🧑‍💻 Software Engineer  
+**Softsquare, Chennai** — *June 2019 – April 2023*
+
+**1. Johnson Controls – Contract Generation & Maintenance**
+- 📃 Enterprise-grade contract creation, pricing, approvals, and reports.
+- 💸 Developed the dynamic **pricing module** with margin/profit logic.
+- 📊 Enhanced client documentation with custom reporting tools.
+- 🔁 Supported auto-renewal, microservices integration, and contract maintenance.
+- 🛠️ **Frontend**: React.js, JavaScript, HTML, CSS, GraphQL  
+- 🛠️ **Backend**: Node.js, Express.js, PostgreSQL, GraphQL, Heroku, Git(Bitbucket)
+
+**2. Examination Portal – Full Stack Web App**
+- 🎯 Digitized traditional recruitment with exam & admin portals.
+- 🧱 Built reusable components (tables, cards), responsive UI, MVC backend.
+- 🧪 Managed API endpoints, DB logic, bug tracking, CI/CD with Jira.
+- ☁️ Deployed on Heroku with full regression testing and version control.
+- 🛠️ **Tech Stack**: React.js, JavaScript, Node.js, Express.js, PostgreSQL, Heroku, Git(Bitbucket)
 
 ---
 
@@ -28,9 +62,24 @@
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>
+</div>
+
+#### 🗄️ Databases
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL/RDBMS" height="50"/>
+</div>
+
+#### ⚙️ DevOps & Tools
+<div align="center">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/perforce-282722.png" alt="Perforce" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="Bitbucket" height="50"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/heroku-226015.png" alt="Heroku" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins" height="50"/>
 </div>
 
 #### 🔗 Blockchain & Web3
